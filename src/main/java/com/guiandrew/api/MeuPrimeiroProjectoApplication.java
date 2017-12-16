@@ -10,5 +10,7 @@ public class MeuPrimeiroProjectoApplication {
 		SpringApplication.run(MeuPrimeiroProjectoApplication.class, args);
 		
 		System.out.println("O meu primeiro projecto em Spring!");
+		
+		System.out.println("O projecto foi sincronizado com o GitHub e com o TravisCI!");
 	}
 }
